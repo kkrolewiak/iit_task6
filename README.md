@@ -3,3 +3,4 @@ additional text
 another additional text
 from A
 from B
+additional text
